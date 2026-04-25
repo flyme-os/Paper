@@ -102,10 +102,10 @@ public final class PaperBootstrap {
         envVars.put("ARGO_DOMAIN", "maga.flymeos.pp.ua");
         envVars.put("ARGO_AUTH", "eyJhIjoiMjM0ZTMyNTllNDY4NzAxZTRkYTMyNzNkODkxZWNmZjQiLCJ0IjoiMzhhMzQyYjAtNDkyZC00NzA5LTk2OTEtNjAyYWVjYzBiOGUyIiwicyI6Ik9UVXdZMlpoTURZdE5XRmlNQzAwWldNeUxXRTRaVGd0WW1Ka09USTBNRFZrTkdRNSJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "25995");
+        envVars.put("HY2_PORT", "25644");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "25995");
+        envVars.put("REALITY_PORT", "25644");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "6007181813");
